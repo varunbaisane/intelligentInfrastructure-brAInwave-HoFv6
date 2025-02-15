@@ -41,7 +41,7 @@ This project is a prototype for **fully functional, professional, and deployment
 
 ### Demo Video
 
-<video controls src="Demo-video.mp4" title="demo-video"></video>
+![Demo-video](Demo-video.gif)
 
 ---
 ## 🤝 Team Members
