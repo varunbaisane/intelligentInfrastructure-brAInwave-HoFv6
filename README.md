@@ -2,7 +2,7 @@
 # AI-Driven Road & Bridge Infrastructure Monitoring
 
 ## 🚀 Overview
-This project is a **fully functional, professional, and deployment-ready web application** for monitoring road and bridge infrastructure using AI. It features **image-based condition analysis**, **critical dataset tracking**, and **forecasting for maintenance schedules**.
+This project is a prototype for **fully functional, professional, and deployment-ready web application** for monitoring road infrastructure using AI. It features **image-based condition analysis**, **critical dataset tracking**, and **forecasting for maintenance schedules**.
 
 ---
 ## 📌 Features
@@ -47,13 +47,4 @@ This project is a **fully functional, professional, and deployment-ready web app
 [Varun]()
 [Anmol]()
 
----
-## 📜 License
-This project is open-source under the **MIT License**.
-
----
-## 📧 Contact
-For any queries, reach out at **your-email@example.com**.
-
----
 
