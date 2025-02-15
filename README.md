@@ -1,4 +1,3 @@
-# intelligentInfrastructure-brAInwave-HoFv6
 # AI-Driven Road & Bridge Infrastructure Monitoring
 
 ## 🚀 Overview
@@ -39,10 +38,16 @@ This project is a prototype for **fully functional, professional, and deployment
 - MongoDB
 
 ---
-## 🤝 Contribution
 
-[Arushi]()
-[Vennela]()
-[Surendra]()
-[Varun]()
-[Anmol]()
+### Demo Video
+
+<video controls src="Demo-video.mp4" title="demo-video"></video>
+
+---
+## 🤝 Team Members
+
+- [Arushi](https://github.com/arushi2702)
+- [Vennela](https://github.com/vennelavarshini18)
+- [Surendra](https://github.com/Surendra-vishnoi)
+- [Varun](https://github.com/varunbaisane)
+- [Anmol]()
